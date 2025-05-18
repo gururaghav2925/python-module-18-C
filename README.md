@@ -1,5 +1,4 @@
-# Title
-Dijkstra's Single Source Shortest Path Algorithm using Python
+# Dijkstra's Single Source Shortest Path Algorithm using Python
 
 # Aim
 To implement Dijkstra's algorithm in Python to find the shortest path from a single source vertex to all other vertices in a given weighted and connected graph.
